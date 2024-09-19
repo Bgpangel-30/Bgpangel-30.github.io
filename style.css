@@ -24,7 +24,7 @@ body {
 .main-header {
     position: relative;
     height: 80vh;
-    background-image: url('imagenes/posibleportada.png');
+    background-image: url('imagenes/posibleportada.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
